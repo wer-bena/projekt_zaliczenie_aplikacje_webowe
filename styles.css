@@ -39,4 +39,28 @@ body {
     z-index: -1;
     background-color: peachpuff;
 }
+#basket > div {
+    position: absolute;
+    height: 30px;
+    margin: auto;
+    line-height: 30px;
+    font-family: Calibri;
+    text-align: center;
+    background-color: grey;
+}
+#buy {
+    top: 100px;
+    width: 45%;
+
+}
+#clear{
+    right: 0;
+    top: 100px;
+    width: 45%;
+}
+#price {
+    top: 140px;
+    width: 100%;
+
+}
 
